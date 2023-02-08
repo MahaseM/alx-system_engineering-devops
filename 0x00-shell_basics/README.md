@@ -1,0 +1,2 @@
+Script prints absolute path of current working directory
+
