@@ -7,3 +7,4 @@ Display current directory contents. In long format with user and Group IDs displ
 Move the file betty from /tmp/ to /tmp/my first directory
 Delete the file betty from /tmp/my first directory/
 Delete the directory my first directory that is in the /tmp directory
+Write a script that changes the working directory to the previous one
