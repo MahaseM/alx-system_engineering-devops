@@ -17,3 +17,4 @@ Create a script that deletes all files in the current working directory that end
 Create a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory
 Write a command that lists all the files and directories of the current directory, separated by commas
 Write a script that adds execution permission to the owner, the group owner and the other users, to the file hello
+Create a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
